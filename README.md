@@ -1,2 +1,0 @@
-
-a javascript project
