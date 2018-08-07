@@ -1,2 +1,2 @@
-# myApp
+# guaguale
 a javascript project
